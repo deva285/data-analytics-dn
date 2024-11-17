@@ -12,4 +12,4 @@ oct26 -working on forest fire project
 
 oct27-forest fire project completed
 
-nov 17-working on 
+nov 17-working on ebola project
