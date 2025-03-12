@@ -14,7 +14,6 @@ oct27-forest fire project completed
 
 nov 17-working on ebola project
 
-
 nov 28-working on ebola project part 1
 
 nov 30-completed ebola project part 1
@@ -25,3 +24,8 @@ feb 10- working on airport project part 1
 
 feb 26- working on airport project part 2
 
+mar 11- working on museum arti facts project part 1  
+
+mar 12- working on museum arti facts project part 2
+
+mar 12- completed museum arti facts project
