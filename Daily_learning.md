@@ -29,3 +29,11 @@ mar 11- working on museum arti facts project part 1
 mar 12- working on museum arti facts project part 2
 
 mar 12- completed museum arti facts project
+
+mar 14-working on fbicrime project part 1
+
+mar 15-working on fbicrime project part 1
+
+mar 16-working on fbicrime project part 2
+
+mar 17-completed fbi_crime project  
