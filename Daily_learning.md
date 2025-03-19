@@ -36,4 +36,8 @@ mar 15-working on fbicrime project part 1
 
 mar 16-working on fbicrime project part 2
 
-mar 17-completed fbi_crime project  
+mar 17-completed fbi_crime project
+
+mar 19-completed opencrime project part 1
+
+ 
